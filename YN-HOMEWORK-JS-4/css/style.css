@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.task {
+    padding: 15px;
+    border: 2px solid #000;
+}
+
+.task-title {
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.task-description {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    font-size: 26px;
+}
+
+.transparent {
+    color: transparent;
+}
